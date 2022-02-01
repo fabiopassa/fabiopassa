@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FABIIO PASSARELLA
+- 👋 Hi, I’m FABIO PASSARELLA, from Brasil.
 - 👀 I’m interested in CSS JAVASCRIPT AND PHP
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on PHP
